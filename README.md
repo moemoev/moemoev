@@ -1,16 +1,21 @@
 # Hi, I'm Dimo Dimow 👋
+
+## 📊 Aspiring Data Engineer (Trainee Level)
+
+I am currently focused on building a strong foundation in **Data Engineering**, with emphasis on SQL, Python, and ETL pipeline concepts (including Airflow).
+
+---
 ## 🧠 Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-learning-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-learning-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-focus-green?style=for-the-badge&logo=databricks&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-learning-orange?style=for-the-badge&logo=apacheairflow&logoColor=white)
-## 📊 Aspiring Data Engineer (Trainee Level)
-
-I am currently focused on building a strong foundation in **Data Engineering**, with emphasis on SQL, Python, and ETL pipeline concepts (including Airflow).
-
 ---
+## 📊 GitHub Stats
 
+![Dimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=moemoev&show_icons=true&theme=default)
+---
 ## 🧠 Core Skills (in progress)
 
 - 🗄️ SQL: queries, joins, aggregations, subqueries
