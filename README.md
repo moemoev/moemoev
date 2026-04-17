@@ -9,8 +9,6 @@ I am currently focused on building a strong foundation in **Data Engineering**, 
 
 ![SQL](https://img.shields.io/badge/SQL-learning-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-learning-yellow?style=for-the-badge&logo=python&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-focus-green?style=for-the-badge&logo=databricks&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-learning-orange?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ---
 ## 📊 GitHub Stats
 
