@@ -1,14 +1,14 @@
-# Hi, I'm Dimo Dimow👋
+# Hi, I'm Dimo Dimow 👋
 
 ## 📊 Aspiring Data Engineer (Trainee Level)
 
-I am currently focused on building a strong foundation in **data engineering**, with emphasis on SQL, Python, and Building ETL pipelines with Airflow.
+I am currently focused on building a strong foundation in **Data Engineering**, with emphasis on SQL, Python, and ETL pipeline concepts (including Airflow).
 
 ---
 
 ## 🧠 Core Skills (in progress)
 
-- 🗄️ SQL: queries, joins, aggregation, subqueries
+- 🗄️ SQL: queries, joins, aggregations, subqueries
 - 🐍 Python: data structures, functions, file handling
 - 📊 Data fundamentals: data manipulation and processing
 
@@ -32,24 +32,24 @@ I am currently focused on building a strong foundation in **data engineering**, 
 
 ## 🎯 Current Focus
 
-- Strengthening SQL for data querying and analytics
-- Improving Python for data processing
-- Building foundation for Data Engineering trainee roles
+- Strengthening SQL for data querying and analysis  
+- Improving Python for data processing and automation  
+- Building a strong foundation for Data Engineering trainee roles  
 
 ---
 
 ## 📈 Next Steps
 
-- ETL pipelines (Extract, Transform, Load)
-- Data Warehousing concepts
-- Data Engineering tools and workflows
-- First real-world data projects
+- ETL pipelines (Extract, Transform, Load)  
+- Workflow orchestration with Apache Airflow  
+- Data Warehousing concepts  
+- First real-world data engineering projects  
 
 ---
 
 ## ⚡ Goal
 
-To start my career as a **Data Engineering Trainee** and grow into a professional data engineer.
+To start my career as a **Data Engineering Trainee** and grow into a professional Data Engineer.
 
 ---
 
